@@ -258,4 +258,11 @@ flutter test test/integration_test.dart
 - Navigation fluide entre les pages
 - Interface responsive
 
+<img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/0d01eadb-d1cc-440e-814b-7a6e2314277d" />
+
+<img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/03bf7c53-6302-48a9-a857-ce2e61b8074c" />
+
+<img width="623" height="1280" alt="image" src="https://github.com/user-attachments/assets/478cee50-751a-4499-a589-b1b95e8a6df6" />
+
+
 
